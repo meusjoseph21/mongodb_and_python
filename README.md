@@ -16,8 +16,8 @@ Before running the script, ensure you have the following installed:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/mongodb-python-shopping-list.git
-   cd mongodb-python-shopping-list
+   git clone https://github.com/meusjoseph21/mongodb_and_python.git
+   cd mongodb_and_python
    ```
 
 2. Install the required Python packages:
